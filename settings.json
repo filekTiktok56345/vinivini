@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AnarchiaFFAEventfree.aternos.me:53270",
+    "ip": "AnarchiaFFAEventfree.aternos.me:",
     "port": 53270,
     "version": "1.21.4",
     "try-creative": false
