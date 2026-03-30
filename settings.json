@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "AnarchiaFFAEventfree.aternos.me:53270",
+    "port": 53270,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
